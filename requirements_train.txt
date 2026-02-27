@@ -1,0 +1,6 @@
+torch
+torchvision
+datasets
+tqdm
+numpy
+pillow
